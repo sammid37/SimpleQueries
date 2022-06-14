@@ -10,6 +10,7 @@ Consultas simples da grade curricular do curso de bacharelado de Ciência da Com
 
 # 🔧 Tecnologias e requisitos
 [SWI Prolog Download](https://www.swi-prolog.org/Download.html)
+
 [SWI Prolog Online](https://swish.swi-prolog.org)
 
 > Projeto desenvolvido durante a disciplina de **Lógica Aplicada à Computação** no período letivo de 2020.1, por [Samantha](https://github.com/sammid37/) e [Jayanne]()
